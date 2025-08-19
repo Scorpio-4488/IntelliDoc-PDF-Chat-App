@@ -37,7 +37,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/Scorpio-4488/IntelliDoc-PDF-Chat-App.git](https://github.com/Scorpio-4488/IntelliDoc-PDF-Chat-App.git)
+    git clone https://github.com/Scorpio-4488/IntelliDoc-PDF-Chat-App.git
     cd IntelliDoc-PDF-Chat-App
     ```
 2.  **Create and activate a virtual environment:**
@@ -68,6 +68,7 @@ This project is licensed under the MIT License.
 
 - **Sagar Sahu**
 - **GitHub:** `https://github.com/Scorpio-4488`
-- **LinkedIn:** `www.linkedin.com/in/sagar-sahu-a888a5367`
+- **LinkedIn:** `https://www.linkedin.com/in/sagar-sahu-a888a5367`
+
 
 

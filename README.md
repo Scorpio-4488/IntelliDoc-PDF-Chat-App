@@ -68,4 +68,5 @@ This project is licensed under the MIT License.
 
 - **Sagar Sahu**
 - **GitHub:** `https://github.com/Scorpio-4488`
-- **LinkedIn:** `https://linkedin.com/in/your-linkedin-profile-url`
+- **LinkedIn:** `www.linkedin.com/in/sagar-sahu-a888a5367`
+

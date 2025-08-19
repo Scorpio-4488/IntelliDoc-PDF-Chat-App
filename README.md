@@ -1,7 +1,7 @@
 # 🧠 IntelliDoc: Advanced PDF Chat Application
 
 ![IntelliDoc App Demo](https://i.imgur.com/your-app-demo.gif)
-*A live, interactive demo is available here: [**IntelliDoc Live App**](https://your-streamlit-app-url-here.streamlit.app/)*
+*A live, interactive demo is available here: [**IntelliDoc Live App**](https://intellidoc-pdf-chat-app.streamlit.app/)*
 
 ---
 
@@ -19,7 +19,7 @@ This is an advanced RAG (Retrieval-Augmented Generation) application built with 
 
 - **Backend:** Python
 - **AI Framework:** LangChain
-- **LLM & Embeddings:** Google Gemini Pro & Google AI Platform
+- **LLM & Embeddings:** Google Gemini & Google AI Platform
 - **Vector Store:** FAISS (Facebook AI Similarity Search)
 - **UI & Deployment:** Streamlit & Streamlit Community Cloud
 - **PDF Processing:** PyPDF2
@@ -37,8 +37,8 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone [https://github.com/Scorpio-4488/IntelliDoc-PDF-Chat-App.git](https://github.com/Scorpio-4488/IntelliDoc-PDF-Chat-App.git)
+    cd IntelliDoc-PDF-Chat-App
     ```
 2.  **Create and activate a virtual environment:**
     ```sh
@@ -62,11 +62,10 @@ To get a local copy up and running, follow these simple steps.
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+This project is licensed under the MIT License.
 
 ## 👤 Author
 
 - **Sagar Sahu**
-- **GitHub:** `https://github.com/your-username`
-
-- **LinkedIn:** `https://linkedin.com/in/your-profile`
+- **GitHub:** `https://github.com/Scorpio-4488`
+- **LinkedIn:** `https://linkedin.com/in/your-linkedin-profile-url`

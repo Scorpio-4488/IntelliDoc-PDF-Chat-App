@@ -1,6 +1,6 @@
 # 🧠 IntelliDoc: Advanced PDF Chat Application
 
-![IntelliDoc App Demo](https://i.imgur.com/your-app-demo.gif)
+![IntelliDoc App Demo](https://github.com/Scorpio-4488/IntelliDoc-PDF-Chat-App/blob/main/intellidoc-demo.gif?raw=true)
 *A live, interactive demo is available here: [**IntelliDoc Live App**](https://intellidoc-pdf-chat-app.streamlit.app/)*
 
 ---
@@ -69,4 +69,5 @@ This project is licensed under the MIT License.
 - **Sagar Sahu**
 - **GitHub:** `https://github.com/Scorpio-4488`
 - **LinkedIn:** `www.linkedin.com/in/sagar-sahu-a888a5367`
+
 
